@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1677419872 source:c:\users\benny\desktop\期末報告\game\initialization.c
+	<stdio.h>
+
+1677419826 source:c:\users\benny\desktop\期末報告\game\main.c
+	<time.h>
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1677417047 source:c:\users\benny\desktop\期末報告\game\put.c
+	<stdio.h>
+
+1677331230 source:c:\users\benny\desktop\期末報告\game\print.c
+	<stdio.h>
+
+1677331610 source:c:\users\benny\desktop\期末報告\game\resetscreenposition.c
+	<windows.h>
+
+1677331657 source:c:\users\benny\desktop\期末報告\game\getch_noblock.c
+	<conio.h>
+
+1677331612 source:c:\users\benny\desktop\期末報告\game\hidden.c
+	<windows.h>
+
+1677417459 source:c:\users\benny\desktop\期末報告\game\player_loc_move.c
+	<stdio.h>
+
+1677417494 source:c:\users\benny\desktop\期末報告\game\sword_loc_move.c
+	<stdio.h>
+
+1677417392 source:c:\users\benny\desktop\期末報告\game\clear_loc.c
+	<stdio.h>
+
+1677419226 source:c:\users\benny\desktop\期末報告\game\move.c
+	<stdio.h>
+	<time.h>
+
+1677419695 source:c:\users\benny\desktop\期末報告\game\set_obstacle.c
+	<stdio.h>
+
+1677419343 source:c:\users\benny\desktop\期末報告\game\check_empty.c
+	<stdio.h>
+
+1677935104 source:c:\users\benny\desktop\期末報告\game.v.2\check_empty.c
+	<stdio.h>
+
+1677762299 source:c:\users\benny\desktop\期末報告\game.v.2\clear_loc.c
+	<stdio.h>
+
+1677331657 source:c:\users\benny\desktop\期末報告\game.v.2\getch_noblock.c
+	<conio.h>
+
+1677331612 source:c:\users\benny\desktop\期末報告\game.v.2\hidden.c
+	<windows.h>
+
+1677933290 source:c:\users\benny\desktop\期末報告\game.v.2\initialization.c
+	<stdio.h>
+	<time.h>
+
+1677934512 source:c:\users\benny\desktop\期末報告\game.v.2\main.c
+	<time.h>
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1677935000 source:c:\users\benny\desktop\期末報告\game.v.2\move.c
+	<stdio.h>
+	<time.h>
+
+1677417459 source:c:\users\benny\desktop\期末報告\game.v.2\player_loc_move.c
+	<stdio.h>
+
+1677850577 source:c:\users\benny\desktop\期末報告\game.v.2\print.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1677762285 source:c:\users\benny\desktop\期末報告\game.v.2\put.c
+	<stdio.h>
+
+1677331610 source:c:\users\benny\desktop\期末報告\game.v.2\resetscreenposition.c
+	<windows.h>
+
+1677935134 source:c:\users\benny\desktop\期末報告\game.v.2\set_obstacle.c
+	<stdio.h>
+
+1677417494 source:c:\users\benny\desktop\期末報告\game.v.2\sword_loc_move.c
+	<stdio.h>
+
+1677935163 source:c:\users\benny\desktop\期末報告\game.v.2\set_hp.c
+	<stdio.h>
+
+1677935423 source:c:\users\benny\desktop\期末報告\game.v.2\cal_hp.c
+	<stdio.h>
+	<time.h>
+
+1677934228 source:c:\users\benny\desktop\期末報告\game.v.2\show_end.c
+	<stdio.h>
+
